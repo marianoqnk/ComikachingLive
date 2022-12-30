@@ -1,0 +1,1 @@
+Files to configurate Voicemeter program.
